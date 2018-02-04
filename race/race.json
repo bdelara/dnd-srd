@@ -1,0 +1,15 @@
+{
+  "dwarf": {
+    "asi": [
+      { "stat": "con", "inc": 2 }
+    ],
+    "subraces": [
+      {
+        "name": "Hill Dwarf",
+        "asi": [
+          { "stat": "wis", "inc": 1 }
+        ]
+      }
+    ]
+  }
+}
